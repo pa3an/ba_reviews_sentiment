@@ -7,3 +7,4 @@ After turning the csv file into a pandas dataframe, a wordcloud was created with
 Finally, sentiment analysis was carried oud with TextBlob. The scores were displayed numerically,
 as well as with a boxplot and a histogram.
 For the record, most reviews were neutral, with score close to 0.
+The scraped reviews' csv file is included.
